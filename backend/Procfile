@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT live_lifeblog_4897.wsgi:application
